@@ -1,2 +1,2 @@
-# Monopoly-Game-C-
-Creating the game Monopoly in C++ using Object-Oriented Programming
+# monopoly-cpp
+Recreating the timeless game of Monopoly using C++ OOP.
